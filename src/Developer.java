@@ -6,6 +6,6 @@ public class Developer {
     }
 
     public void executeActivity(){
-        activity.justDoIt();
+        activity.execute();
     }
 }

@@ -1,4 +1,3 @@
 public interface IActivity {
-    public void justDoIt();
-
+    public void execute();
 }
